@@ -27,7 +27,7 @@ Hello! I'm Surya V,a Enthusiastic tech explorer, driven by a thirst for learning
 
 ## Connect with Me
 
-- LinkedIn: [Surya V]([https://www.linkedin.com/in/prabakaran-m-s-897782182/](https://www.linkedin.com/in/surya1015))
-- GitHub: [Surya V]([https://github.com/Prabakaran-MS](https://github.com/Surya9919))
+- LinkedIn: [Surya V](https://www.linkedin.com/in/prabakaran-m-s-897782182/](https://www.linkedin.com/in/surya1015)
+- GitHub: [Surya V](https://github.com/Prabakaran-MS](https://github.com/Surya9919)
 - Instagram: [Surya_V](https://www.instagram.com/_surya_5_0/)
 - Email: suryavp9919@gmail.com
