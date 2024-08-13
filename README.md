@@ -21,7 +21,6 @@ Hello! I'm Surya V,a Enthusiastic tech explorer, driven by a thirst for learning
 ### Web Development
 - <img src="./images/html5.webp" width="20"> HTML5
 - <img src="./images/css3.webp" width="20"> CSS3
-- <img src="./images/css3.webp" width="20"> CSS3
 ### Database
 - <img src="./images/mysql.png" width="20"> MySQL
 
